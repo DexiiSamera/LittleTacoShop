@@ -1,0 +1,82 @@
+.Taco-home{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 410px;
+    
+}
+html{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: beige;
+}
+li{
+    color: beige;
+    font-size: medium;
+
+}
+figcaption{
+    color: beige;
+   margin-left: 45%;
+}
+.Taco{
+    width: 610px;
+    height:300px;
+    margin-left: 27%;
+    margin-right: auto;
+    
+}
+#about{
+    color: beige;
+    padding: 150px;
+    padding-left: 300px;
+}
+
+footer{
+    color: beige;
+}
+
+#trays{
+    width: 410px;
+    height:300px;
+    margin-left: 27%;
+    margin-right: auto;
+    padding-left: 190px;
+    
+}
+#menu{
+    color: beige;
+    padding-left: 500px;;
+    padding-right: 0px;;
+}
+.Hours{
+    color: beige;
+    padding-left: 500px;;
+    padding-right: 0px;;
+    font-size: medium;
+    font-size: 7vh;
+}
+#yellowg{
+    color: beige;
+}
+main{
+    color: beige;
+}
+.squeeze{
+    width: 500px;
+     height: 267px;
+     margin-left: auto;
+     margin-right: auto;
+     padding-left: 400px;;
+}
+aside{
+    padding-left: 160px;
+}
+ul{
+    padding-left: 500px;;
+    padding-right: 0px;;
+}
